@@ -349,7 +349,7 @@ function Home() {
 
         <footer>
 
-          © 2025 React Training App.
+          © 2026 React Training App.
           All rights reserved.
 
         </footer>
